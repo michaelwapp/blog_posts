@@ -140,6 +140,8 @@ That's it. Now you have control over your search behavior. This allows you to ad
 
 The final product should look like this: 
 
+![final_solution](final_solution.gif)
+
 ### Section 4: Improvement: Form Auto-Submission 
 
 Enhance the search experience with automatic form submission. Use a Stimulus controller to submit the form after a brief delay. Attach the controller to the form as follows:
